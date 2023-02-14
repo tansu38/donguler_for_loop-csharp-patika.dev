@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\yazılım\donguler_for_loop-csharp\bin\Debug\net7.0\donguler_for_loop-csharp.exe
+C:\Users\user\Desktop\yazılım\donguler_for_loop-csharp\bin\Debug\net7.0\donguler_for_loop-csharp.deps.json
+C:\Users\user\Desktop\yazılım\donguler_for_loop-csharp\bin\Debug\net7.0\donguler_for_loop-csharp.runtimeconfig.json
+C:\Users\user\Desktop\yazılım\donguler_for_loop-csharp\bin\Debug\net7.0\donguler_for_loop-csharp.dll
+C:\Users\user\Desktop\yazılım\donguler_for_loop-csharp\bin\Debug\net7.0\donguler_for_loop-csharp.pdb
+C:\Users\user\Desktop\yazılım\donguler_for_loop-csharp\obj\Debug\net7.0\donguler_for_loop-csharp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\yazılım\donguler_for_loop-csharp\obj\Debug\net7.0\donguler_for_loop-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\yazılım\donguler_for_loop-csharp\obj\Debug\net7.0\donguler_for_loop-csharp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\yazılım\donguler_for_loop-csharp\obj\Debug\net7.0\donguler_for_loop-csharp.AssemblyInfo.cs
+C:\Users\user\Desktop\yazılım\donguler_for_loop-csharp\obj\Debug\net7.0\donguler_for_loop-csharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\yazılım\donguler_for_loop-csharp\obj\Debug\net7.0\donguler_for_loop-csharp.dll
+C:\Users\user\Desktop\yazılım\donguler_for_loop-csharp\obj\Debug\net7.0\refint\donguler_for_loop-csharp.dll
+C:\Users\user\Desktop\yazılım\donguler_for_loop-csharp\obj\Debug\net7.0\donguler_for_loop-csharp.pdb
+C:\Users\user\Desktop\yazılım\donguler_for_loop-csharp\obj\Debug\net7.0\donguler_for_loop-csharp.genruntimeconfig.cache
+C:\Users\user\Desktop\yazılım\donguler_for_loop-csharp\obj\Debug\net7.0\ref\donguler_for_loop-csharp.dll
